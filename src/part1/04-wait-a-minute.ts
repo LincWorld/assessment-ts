@@ -1,0 +1,3 @@
+export default function waitAMinute(startTime: string, endTime: string) {
+	// Your code here....
+}

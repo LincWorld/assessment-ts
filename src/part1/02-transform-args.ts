@@ -1,0 +1,3 @@
+export default function transformArgumentsToArray(transformingFunction: Function) {
+	// Your code here....
+}

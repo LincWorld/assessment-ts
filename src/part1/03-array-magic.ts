@@ -1,0 +1,3 @@
+export default function magicArray(arr: any[]) {
+	// Your code here....
+}
